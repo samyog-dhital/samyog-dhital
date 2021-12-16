@@ -2,7 +2,7 @@
 
 ## I'm a Young Passionate Web Developer!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+
 - 🌱 I’m currently exploring React
 - 👯 I’m looking to collaborate with other developers like me
 - 🥅 2022 Goals: Contribute more to Open Source projects
