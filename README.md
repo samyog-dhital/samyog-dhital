@@ -36,4 +36,4 @@
 [website]: https://www.samyogdhital.com.np/
 [twitter]: https://twitter.com/samyog_dhital
 [instagram]: https://www.instagram.com/samyog_dhital/
-[linkedin]: https://www.linkedin.com/in/samyog-dhital-581245206/
+[linkedin]: https://www.linkedin.com/in/samyogdhital/
