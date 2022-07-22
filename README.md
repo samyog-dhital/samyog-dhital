@@ -3,7 +3,7 @@
 ## I'm a Young Passionate Web Developer!!
 
 
-- 🌱 I’m currently exploring React
+- 🌱 I’m currently working with React especially Next.js
 - 👯 I’m looking to collaborate with other developers like me
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play games along with travelling
