@@ -1,6 +1,6 @@
 ### Hi there, I'm [Samyog][website] 👋 
 
-## I'm a Experienced Frontend Engineer!!
+## I'm an Experienced Frontend Engineer!!
 
 
 - 🌱 I’m currently working with React especially Next.js
