@@ -7,6 +7,7 @@
 - 👯 I’m looking to collaborate with other developers like me
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play games along with travelling
+- 😀 Also searching for jobs
 
 ### Connect with me:
 
