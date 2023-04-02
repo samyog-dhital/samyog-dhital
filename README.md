@@ -1,6 +1,6 @@
 ### Hi there, I'm [Samyog][website] 👋 
 
-## I'm an Experienced Frontend Engineer!!
+## I'm a Frontend Engineer | Blockchain Developer!!
 
 
 - 🌱 I’m currently working with React especially Next.js
