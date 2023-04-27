@@ -1,7 +1,8 @@
 # Hi there, I'm Samyog 👋
 
-[![Website](https://img.shields.io/website?label=samyogdhital.com.np&style=for-the-badge&url=https://www.samyogdhital.com.np/)](https://www.samyogdhital.com.np/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/samyog_dhital?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/samyogdhital&screen_name=samyog_dhital)
+[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=samyogdhital)
+[![Samyog Dhital Website](https://img.shields.io/website?label=samyogdhital.com.np&style=for-the-badge&url=https://www.samyogdhital.com.np/)](https://www.samyogdhital.com.np/)
 
 ## FullStack Web3 Developer | Blockchain Researcher
 
