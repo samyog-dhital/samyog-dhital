@@ -3,9 +3,9 @@
 [![Website](https://img.shields.io/website?label=samyogdhital.com.np&style=for-the-badge&url=https://www.samyogdhital.com.np/)](https://www.samyogdhital.com.np/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/samyog_dhital?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/samyogdhital&screen_name=samyog_dhital)
 
-## I'm a FullStack Web3 Developer | Blockchain Researcher
+## FullStack Web3 Developer | Blockchain Researcher
 
-- 🌱 Working on Ethereum Blockchain
+- 🌱 Working on Ethereum Blockchain, Near Protocol
 - 💹 Extreme Bullish on Crypto
 - 🥅 2023 Goals: Contribute more to web3 projects
 - 😀 Also searching for jobs
