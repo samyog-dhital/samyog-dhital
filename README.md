@@ -1,12 +1,11 @@
 ### Hi there, I'm [Samyog][website] 👋 
 
-## I'm a Frontend Engineer | Blockchain Developer!!
+## I'm a FullStack Web3 Developer | Blockchain Researcher!!
 
 
 - 🌱 I’m currently working with React especially Next.js
 - 👯 I’m looking to collaborate with other developers like me
 - 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play games along with travelling
 - 😀 Also searching for jobs
 
 ### Connect with me:
