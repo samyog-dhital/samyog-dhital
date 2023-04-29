@@ -8,7 +8,7 @@
 
 - 🌱 Working on Ethereum Blockchain, Near Protocol
 - 💹 Extreme Bullish on Crypto
-- 🥅 2023 Goals: Contribute more to web3 projects
+- 🥅 2023: Build epic shit
 - 😀 Also searching for jobs
 
 ### Tech I enjoy
