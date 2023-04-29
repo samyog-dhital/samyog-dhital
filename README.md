@@ -13,8 +13,6 @@
 
 ### Tech I enjoy
 
-<br/>
-
 <div style="display: flex;">
 <a href="https://www.rust-lang.org/"><img align="left" alt="Rust" src="https://avatars.githubusercontent.com/u/5430905?s=40&v=4" width="48" height="48" /></a>
 <a href="https://soliditylang.org/"><img align="left" alt="Solidity"src="https://raw.githubusercontent.com/github/explore/ba9de12f88fd08825c51928e91f1678cb5c94b26/topics/solidity/solidity.png" width="48" height="48" /></a>
@@ -38,10 +36,8 @@ width="48" height="48"
 </a>
 </div>
 
-<br />
-
 ### Stats
-
+  
 <div style="display: flex;"> 
   <img src="https://github-readme-stats.vercel.app/api?username=samyogdhital&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=e4e4e7&icon_color=0891b2&bg_color=3f3f46&hide_border=true&show_icons=true" alt="samyogdhital's GitHub stats" height="229" />
 </div>
