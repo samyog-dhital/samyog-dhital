@@ -9,7 +9,6 @@
 - 🌱 Working on Ethereum Blockchain, Near Protocol (#DeFi)
 - 💹 Extreme Bullish on Crypto
 - 🥅 2023: Build epic shit
-- 😀 Also searching for jobs
 
 ### Tech I enjoy
 
