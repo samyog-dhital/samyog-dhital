@@ -6,7 +6,7 @@
 
 ## FullStack Web3 Developer | Blockchain Researcher
 
-- 🌱 Working on Ethereum Blockchain, Near Protocol (#DeFi)
+- 🌱 Working on Blockchain (#DeFi)
 - 💹 Extreme Bullish on Crypto
 - 🥅 2023: Build epic shit
 
