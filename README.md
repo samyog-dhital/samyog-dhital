@@ -6,9 +6,9 @@
 
 ## FullStack Web3 Developer | Blockchain Researcher
 
-- 🌱 Working on Blockchain (#DeFi)
+- 💪 Working on Blockchain (#DeFi)
 - 💹 Extreme Bullish on Crypto
-- 🥅 2023: Build epic shit
+- 🥅 2023: Xtrembet to the moon. (Follow @Xtrembet closely on Twitter/X😉)
 
 ### Tech I enjoy
 
