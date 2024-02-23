@@ -8,7 +8,7 @@
 
 - 💪 Working on Blockchain (#DeFi)
 - 💹 Extreme Bullish on Crypto
-- 🥅 2023: specuxHQ to the mass. (Follow @specuxHQ closely on Twitter/X😉)
+- 🥅 2023: Specux.com to the mass. (Follow @specuxHQ closely on Twitter/X😉)
 
 ### Tech I enjoy
 
